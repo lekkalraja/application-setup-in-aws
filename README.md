@@ -1,7 +1,7 @@
 # Architecture Problem
 
 ### Description:
-This architecture diagram will solve the  case study mentioned in https://github.com/chapagain/nodejs-mysql-crud.
+This architecture diagram will solve the  case study mentioned in https://gist.github.com/houdinisparks/b8dcd1d2b5b1179b45b0afe68351e027
  
     
 ### Architecture diagram
